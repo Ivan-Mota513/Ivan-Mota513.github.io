@@ -1,0 +1,125 @@
+/* Add CSS styles for your web site here and use them in index.html. */
+/* Add CSS styles for your web site here and use them in index.html. */
+table{
+                width:100%;
+            }
+            table, th, td{
+              border: 1px solid rgba(0, 0, 0, 0.757);
+   
+}
+h2 {
+  text-align: center;
+}
+/* Add CSS styles for your web site here and use them in index.html. */
+/* General Styles */
+body {
+font-family: 'Arial', sans-serif;
+margin: 0;
+padding: 0;
+background-color: #000; /* Black background */
+color: #fff; /* White text */
+background-image: url(https://files.vlad.studio/joy/starry_night/preview/1600x2560.jpg&#39;);
+}
+
+hr {
+border: 1px solid #000000; /* Horizontal rule style */
+margin: 20px 0;
+}
+
+/* Navigation Bar */
+.topnav {
+overflow: hidden;
+background-color: #000000; /* Dark gray background */
+border-bottom: 6px solid #053c7f; /* Lighter gray bottom border */
+}
+
+.topnav a {
+float: left;
+display: block;
+color: #fff; /* White text */
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-weight: bold;
+}
+
+.topnav a:hover {
+background-color: #5e5e5e; /* Medium gray on hover */
+color: #053c7f; /* Gold text on hover */
+}
+
+#project{
+background-color: #000000; /* Slightly lighter gray for active link */
+color: #ffffff; /* Gold text for active link */
+border-right: 2px solid #ffffff;
+border-top: 2px solid #ffffff;
+border-left: 2px solid #ffffff;
+border-bottom: 2px solid #ffffff;
+}
+
+/* Content Section */
+.content {
+padding: 20px;
+}
+
+h1, h2 {
+color: #ffcc00; /* Gold headings */
+}
+
+a {
+color: #053c7f; /* Light teal links */
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+/* Table Styling */
+table {
+width: 100%;
+border-collapse: collapse;
+margin: 20px 0;
+background-color: #0b0606; /* Dark background for table */
+color: #fff; /* White text for table */
+}
+
+table th, table td {
+border: 1px solid #ffffff;
+text-align: center;
+padding: 30px;
+font-family: "Cinzel",serif;
+font-size: 30px;
+}
+
+table th {
+background-color: #060303; /* Darker header row */
+color: #ffffff; /* Gold text for header */
+font-family: "Sofia",serif;
+font-size: 40px;
+}
+
+table a {
+color: #000000; /* Light teal for links in the table */
+font-family: "Cinzel",serif;
+font-size: 30px;
+}
+
+h1, #p1{
+text-align: center;
+}
+
+#title{
+  font-family: "Sofia",serif;
+font-size: 50px;
+color:#000
+}
+html{
+  background-color: rgb(0, 0, 0)
+}
+body{
+  background-image: url(computer-screen-code-glitch-animation-gif-background-free-thumb57.gif);
+}
+ #hWorld{
+text-align: center;
+}
